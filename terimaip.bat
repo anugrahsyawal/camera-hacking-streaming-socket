@@ -1,0 +1,1 @@
+ncat -l 9999 > tangkap-ip.txt
